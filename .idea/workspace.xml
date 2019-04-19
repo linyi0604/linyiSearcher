@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e710a483-f4a9-423e-b50d-e8c250eee556" name="Default Changelist" comment="" />
+    <list default="true" id="e710a483-f4a9-423e-b50d-e8c250eee556" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="282">
+              <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -82,6 +85,9 @@
       <find>邓紫棋</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -102,11 +108,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
-    <option name="y" value="106" />
+    <option name="x" value="467" />
+    <option name="y" value="96" />
     <option name="width" value="1330" />
     <option name="height" value="761" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -120,11 +127,6 @@
               <item name="linyiSearcher" type="b2602c69:ProjectViewProjectNode" />
               <item name="linyiSearcher" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="linyiSearcher" type="b2602c69:ProjectViewProjectNode" />
-              <item name="linyiSearcher" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -134,6 +136,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data/front/js" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -281,12 +284,12 @@
       <workItem from="1555421685148" duration="18996000" />
       <workItem from="1555546781439" duration="2702000" />
       <workItem from="1555566622317" duration="4190000" />
-      <workItem from="1555575416994" duration="27295000" />
+      <workItem from="1555575416994" duration="27740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56102000" />
+    <option name="totallyTimeSpent" value="56547000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -298,10 +301,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="105" width="1330" height="761" extended-state="0" />
+    <frame x="467" y="96" width="1330" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49881235" visible="true" weight="0.21928461" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49881235" visible="true" weight="0.21928461" />
       <window_info id="Structure" order="1" sideWeight="0.5011876" side_tool="true" weight="0.21928461" />
       <window_info id="Favorites" order="2" sideWeight="0.5011876" side_tool="true" weight="0.21928461" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -314,7 +317,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5023328" side_tool="true" weight="0.3264" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4976672" visible="true" weight="0.3264" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4976672" visible="true" weight="0.32744783" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.39858156" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4992224" weight="0.3776" />
       <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3296" />
@@ -530,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="282">
+          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
         </state>
       </provider>
     </entry>

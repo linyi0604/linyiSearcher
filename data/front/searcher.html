@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>linyiSearcher</title>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- 引入 Bootstrap -->
+        <link href="http://localhost:8080/static/bootstrap.min.css" rel="stylesheet">
+        <script src="http://localhost:8080/static/jquery.min.js"></script>
+        <script src="http://localhost:8080/static/bootstrap.min.js"></script>
+
+   </head>
+   <body>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>linyiSearcher</h1>
+  <p>18S103263林奕的信息检索作业</p>
+</div>
+
+
+<form action="http://localhost:8080/hello/">
+<input class="form-control btn-default"
+       style="float: left; width: 60%;" type="text" name="keyword"
+        placeholder="输入查询内容" value="{{keyword}}">
+   <button class="btn btn-primary" type="submit" >搜索一下</button>
+</form>
+<table class="table">
+    % if not page_list:
+
+    <tr>
+    <td>
+        <br>
+        <br>
+        暂时没有搜到相关内容...
+        <br>
+        <br>
+    </td>
+    </tr>
+    % end
+
+   %for page in page_list:
+    <tr>
+    <td>
+        <a class="btn-light" target="view_window" href="{{page[1]}}">
+            {{page[3]}}
+        </a>
+        <br>
+        <br>
+        {{page[2]}}
+        <br>
+        <br>
+    </td>
+    </tr>
+   %end
+</table>
+
+</body>
+</html>

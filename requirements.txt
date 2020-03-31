@@ -1,7 +1,7 @@
 attrs==19.1.0
 backcall==0.1.0
 Beaker==1.10.1
-bleach==3.1.0
+bleach==3.1.4
 bottle==0.12.16
 certifi==2019.3.9
 chardet==3.0.4
